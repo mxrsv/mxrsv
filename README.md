@@ -1,13 +1,13 @@
 <!-- profile README for github.com/mxrsv -->
 
 ```text
- ███╗   ███╗██╗  ██╗██████╗ ███████╗██╗   ██╗
- ████╗ ████║╚██╗██╔╝██╔══██╗██╔════╝██║   ██║
- ██╔████╔██║ ╚███╔╝ ██████╔╝███████╗██║   ██║
- ██║╚██╔╝██║ ██╔██╗ ██╔══██╗╚════██║╚██╗ ██╔╝
- ██║ ╚═╝ ██║██╔╝ ██╗██║  ██║███████║ ╚████╔╝
- ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝  ╚═══╝
-        ~/kyant  ·  solo dev  ·  vibe coding with AI agents
+                                       __
+   ____ ___  _  _____________   __    / /
+  / __ `__ \| |/_/ ___/ ___/ | / /   / /
+ / / / / / />  </ /  (__  )| |/ /   /_/
+/_/ /_/ /_/_/|_/_/  /____/ |___/   (_)
+
+  ~/kyant  ·  solo dev  ·  vibe coding with AI agents
 ```
 
 ```console
@@ -46,10 +46,6 @@ kyan@vibe:~$ tail -f ~/.vibe/status.log
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mxrsv&show_icons=true&hide_border=true&theme=github_dark&title_color=58a6ff&icon_color=3fb950&text_color=c9d1d9&bg_color=0d1117" height="165" alt="stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mxrsv&layout=compact&hide_border=true&theme=github_dark&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" height="165" alt="top languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mxrsv&bg_color=0d1117&color=3fb950&line=3fb950&point=58a6ff&area=true&hide_border=true" alt="activity graph" />
 </p>
 
 ```console
